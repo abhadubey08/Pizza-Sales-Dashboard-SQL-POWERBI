@@ -102,12 +102,10 @@ This project focuses on analyzing pizza sales data to uncover business insights 
 
 ## Dashboard Preview
 
-Upload dashboard screenshots and place them here.
-
-## Dashboard Preview
-
 ### Home Dashboard
-![Home Dashboard](screenshots/dashboard_home.png)
+
+![Home Dashboard](Dashboard%20Screenshots/home_dashboard.png)
 
 ### Best & Worst Sellers Dashboard
-![Best Worst Sellers Dashboard](screenshots/dashboard_best_worst_sellers.png)
+
+![Best Sellers Dashboard](Dashboard%20Screenshots/dashboard_best_worst_sellers.png)
